@@ -104,11 +104,11 @@ body{
 }
 
 #button1to2{
-	background: url('../lib/arrow.png') center center;
+	background: url('../images/arrow.png') center center;
 }
 
 #button2to1{
-	background: url('../lib/arrow-back.png') center center;
+	background: url('../images/arrow-back.png') center center;
 	display:none;
 }
 
@@ -122,12 +122,12 @@ body{
 }
 
 #button2to3{
-	background: url('../lib/arrow.png') center center;
+	background: url('../images/arrow.png') center center;
 	display:none;
 }
 
 #button3to2{
-	background: url('../lib/arrow-back.png') center center;
+	background: url('../images/arrow-back.png') center center;
 	display:none;
 }
 
@@ -181,7 +181,7 @@ button{
 	width:30px;/*50 povodne*/
 	margin-left:5px;/*upravenbe*/
 	vertical-align: bottom;
-	background:url('../lib/arrow.png') no-repeat center;/**/
+	background:url('../images/arrow.png') no-repeat center;/**/
 	color:#333;
 	font-family: Tahoma, Arial, "MS Trebuchet", sans-serif;
 	font-size: 14px;
@@ -191,7 +191,7 @@ button{
 }
 
 button:hover{
-	background:url('../lib/arrow-hover.png') no-repeat center;
+	background:url('../images/arrow-hover.png') no-repeat center;
 	cursor: pointer;
 }
 
@@ -203,13 +203,13 @@ button:hover{
 	position: absolute;
 	top:0px;
 	right:35px;
-	background: url('../lib/search.png') center center no-repeat;
+	background: url('../images/search.png') center center no-repeat;
 }
 
 #search-engine1:hover,
 #search-engine2:hover,
 #search-engine3:hover{
-	background: url('../lib/search-hover.png') center center no-repeat;
+	background: url('../images/search-hover.png') center center no-repeat;
 	cursor:pointer;
 	border:0px !important;
 	box-shadow:0px 0px 0px #fff !important;
@@ -238,49 +238,49 @@ button:hover{
 #google1,
 #google2,
 #google3{
-	background: url(../lib/google.png) center center no-repeat;
+	background: url(../images/google.png) center center no-repeat;
 }
 
 #google1:hover,
 #google2:hover,
 #google3:hover{
-	background: url(../lib/google-hover.png) center center no-repeat;
+	background: url(../images/google-hover.png) center center no-repeat;
 }
 
 #bing1,
 #bing2,
 #bing3{
-	background: url(../lib/bing.png) center center no-repeat;
+	background: url(../images/bing.png) center center no-repeat;
 }
 
 #bing1:hover,
 #bing2:hover,
 #bing3:hover{
-	background: url(../lib/bing-hover.png) center center no-repeat;
+	background: url(../images/bing-hover.png) center center no-repeat;
 }
 
 #yahoo1,
 #yahoo2,
 #yahoo3{
-	background: url(../lib/yahoo.png) center center no-repeat;
+	background: url(../images/yahoo.png) center center no-repeat;
 }
 
 #yahoo1:hover,
 #yahoo2:hover,
 #yahoo3:hover{
-	background: url(../lib/yahoo-hover.png) center center no-repeat;
+	background: url(../images/yahoo-hover.png) center center no-repeat;
 }
 
 #wikipedia1,
 #wikipedia2,
 #wikipedia3{
-	background: url(../lib/wikipedia.png) center center no-repeat;
+	background: url(../images/wikipedia.png) center center no-repeat;
 }
 
 #wikipedia1:hover,
 #wikipedia2:hover,
 #wikipedia3:hover{
-	background: url(../lib/wikipedia-hover.png) center center no-repeat;
+	background: url(../images/wikipedia-hover.png) center center no-repeat;
 }
 
 #engines1 div:hover,
@@ -348,7 +348,7 @@ button:hover{
 	position: absolute;
 	left:0px;
 	top:0px;
-	background:url('../lib/1.png')/*#409da5*/;
+	background:url('../images/1.png')/*#409da5*/;
 	line-height: 103px;
 }
 
@@ -373,7 +373,7 @@ button:hover{
 	position: absolute;
 	left:0px;
 	top:113px;
-	background:url('../lib/2.png')/*#4849a6*/;
+	background:url('../images/2.png')/*#4849a6*/;
 	line-height:102px;
 	line-height:102px;
 }
@@ -399,7 +399,7 @@ button:hover{
 	position: absolute;
 	left:225px;
 	top:0px;
-	background:url('../lib/3.png')/*#cd432d*/;
+	background:url('../images/3.png')/*#cd432d*/;
 	line-height:65px;
 	line-height:65px;
 }
@@ -425,7 +425,7 @@ button:hover{
 	position: absolute;
 	left:375px;
 	top:0px;
-	background:url('../lib/4.png')/*#da8515*/;
+	background:url('../images/4.png')/*#da8515*/;
 	line-height:65px;
 }
 
@@ -450,7 +450,7 @@ button:hover{
 	position: absolute;
 	left:225px;
 	top:75px;
-	background:url('../lib/5.png')/*#7d9f2a*/;
+	background:url('../images/5.png')/*#7d9f2a*/;
 	line-height:140px;
 }
 
@@ -475,7 +475,7 @@ button:hover{
 	position: absolute;
 	left:525px;
 	top:0px;
-	background:url('../lib/6.png')/*#672c9b*/;
+	background:url('../images/6.png')/*#672c9b*/;
 	line-height:215px;
 }
 
@@ -500,7 +500,7 @@ button:hover{
 	position: absolute;
 	left:0px;
 	top:225px;
-	background:url('../lib/7.png')/*#621354*/;
+	background:url('../images/7.png')/*#621354*/;
 	line-height:160px;
 }
 
@@ -525,7 +525,7 @@ button:hover{
 	position: absolute;
 	left:0px;
 	top:395px;
-	background:url('../lib/8.png')/*#409da5*/;
+	background:url('../images/8.png')/*#409da5*/;
 	line-height:75px;
 }
 
@@ -550,7 +550,7 @@ button:hover{
 	position: absolute;
 	left:170px;
 	top:395px;
-	background:url('../lib/9.png')/*#7d9f2a*/;
+	background:url('../images/9.png')/*#7d9f2a*/;
 	line-height:75px;
 }
 
@@ -575,7 +575,7 @@ button:hover{
 	position: absolute;
 	left:340px;
 	top:265px;
-	background:url('../lib/10.png')/*#03417a*/;
+	background:url('../images/10.png')/*#03417a*/;
 	line-height:205px;
 }
 
@@ -600,7 +600,7 @@ button:hover{
 	position: absolute;
 	left:770px;
 	top:265px;
-	background:url('../lib/11.png')/*#409da5*/;
+	background:url('../images/11.png')/*#409da5*/;
 	line-height:98px;
 }
 
@@ -625,7 +625,7 @@ button:hover{
 	position: absolute;
 	left:770px;
 	top:373px;
-	background:url('../lib/12.png')/*#da8515*/;
+	background:url('../images/12.png')/*#da8515*/;
 	line-height:97px;
 }
 

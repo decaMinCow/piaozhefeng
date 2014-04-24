@@ -230,7 +230,7 @@ var source = '<pre>'+'\n'+
 '};'+'\n'+
 'bookmark[<span class="number">2</span>][<span class="number">10</span>] = {'+'\n'+
     '<span class="string">\'title\'</span>:<span class="string">\'CBC news\'</span>,'+'\n'+
-    '<span class="string">\'url\'</span>:<span class="string">\'http://www.lanrentuku.com/\'</span>,'+'\n'+
+    '<span class="string">\'url\'</span>:<span class="string">\'http://www.cbc.ca/news/\'</span>,'+'\n'+
     '<span class="string">\'thumb\'</span>:<span class="string">\'cbcnews.png\'</span>'+'\n'+
 
 '};'+'\n'+

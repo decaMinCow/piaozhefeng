@@ -4,7 +4,7 @@
 	left: 0px;
 	width: 100%;
 	height: 100%;
-	background: url('../lib/config-dialog-back.png') repeat;
+	background: url('../images/config-dialog-back.png') repeat;
 	display: none;
 }
 
@@ -148,12 +148,12 @@
 	height: 30px;
 	margin-top: 5px;
 	float: right;
-	background: url('../lib/arrow.png') center;
+	background: url('../images/arrow.png') center;
 	border: none;
 }
 
 .configDialog button:hover{
-	background: url('../lib/arrow-hover.png') center;
+	background: url('../images/arrow-hover.png') center;
 }
 
 #configDialog-screens select{
@@ -312,11 +312,11 @@
 	height: 39px;
 	bottom: 5px;
 	left:0px;
-	background: url('../lib/generate.png');	
+	background: url('../images/generate.png');	
 }
 
 #generate:hover{
-	background: url('../lib/generate-hover.png');
+	background: url('../images/generate-hover.png');
 	cursor: pointer;
 }
 
@@ -334,12 +334,12 @@
 	top: 10px;
 	width: 83px;
 	height: 30px;
-	background: url('../lib/back.png');
+	background: url('../images/back.png');
 	display:none;
 }
 
 #back:hover{
-	background: url('../lib/back-hover.png');
+	background: url('../images/back-hover.png');
 	cursor: pointer;
 }
 

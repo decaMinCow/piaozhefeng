@@ -1,12 +1,12 @@
-var hoverEffect = true; // set true for hover effect, set false for no hover effect
+﻿var hoverEffect = true; // set true for hover effect, set false for no hover effect
 
 var searchEngine = 'google'; // default search engine - set google for google search, bing for bing search, yahoo for yahoo search
 
-var numberOfScreens = 3; // set number of screens (1 or 2 or 3)
+var numberOfScreens = 2; // set number of screens (1 or 2 or 3)
  
 var blockName = new Array(); // set names of blocks
-blockName[1] = 'Most used';
-blockName[2] = 'Social';
+blockName[1] = '常用';
+blockName[2] = '消遣';
 blockName[3] = 'News & fun';
 
 var bookmark = new Array();
@@ -17,29 +17,29 @@ bookmark[2] = new Array();
 // set your bookmarks here: (If you do not fill 'thumb' for thumbnail will be used title)
 // FIRST BLOCK
 bookmark[0][0] = {
-	'title':'YouTube',
-	'url':'http://youtube.com',
-	'thumb':'youtube.png'
+	'title':'csdn',
+	'url':'http://csdn.net',
+	'thumb':'csdn.png'
 };
 bookmark[0][1] = {
-	'title':'Yahoo',
-	'url':'http://yahoo.com',
-	'thumb':'yahoo.png'
+	'title':'zhihu',
+	'url':'http://zhihu.com',
+	'thumb':'zhihu.png'
 };
 bookmark[0][2] = {
-	'title':'Grooveshark',
-	'url':'http://grooveshark.com',
-	'thumb':'grooveshark.png'
+	'title':'youku',
+	'url':'http://youku.com',
+	'thumb':'youku.png'
 };
 bookmark[0][3] = {
-	'title':'last.fm',
-	'url':'http://www.last.fm/',
-	'thumb':'lastfm.png'
+	'title':'xweibo',
+	'url':'http://weibo.com/',
+	'thumb':'xweibo.png'
 };
 bookmark[0][4] = {
-	'title':'twitter',
-	'url':'http://twitter.com',
-	'thumb':'twitter.png'
+	'title':'fenghuangnews',
+	'url':'http://ifeng.com/',
+	'thumb':'fenghuang.png'
 };
 bookmark[0][5] = {
 	'title':'google',
@@ -47,24 +47,24 @@ bookmark[0][5] = {
 	'thumb':'google.png'
 };
 bookmark[0][6] = {
-	'title':'facebook',
+	'title':'guorenblog',
 	'url':'http://facebook.com',
-	'thumb':'facebook.png'
+	'thumb':'blog.png'
 };
 bookmark[0][7] = {
-	'title':'BBC news',
-	'url':'http://www.bbc.co.uk/news/',
-	'thumb':'bbcnews.png'
+	'title':'36kr',
+	'url':'http://36kr.com',
+	'thumb':'36kr.png'
 };
 bookmark[0][8] = {
-	'title':'CNN',
-	'url':'http://www.cnn.com',
-	'thumb':'cnn.png'
+	'title':'doubanfm',
+	'url':'http://douban.fm',
+	'thumb':'doubanfm.png'
 };
 bookmark[0][9] = {
-	'title':'deviantART',
-	'url':'http://deviantart.com',
-	'thumb':'deviantart.png'
+	'title':'taobao',
+	'url':'http://taobao.com',
+	'thumb':'taobao.png'
 };
 bookmark[0][10] = {
 	'title':'wikipedia',
@@ -72,9 +72,9 @@ bookmark[0][10] = {
 	'thumb':'wikipedia.png'
 };
 bookmark[0][11] = {
-	'title':'iTunes',
-	'url':'http://www.apple.com/itunes/',
-	'thumb':'itunes.png'
+	'title':'about',
+	'url':'about/index.html',
+	'thumb':'about.png'
 };
 // end of FIRST BLOCK
 // SECOND BLOCK

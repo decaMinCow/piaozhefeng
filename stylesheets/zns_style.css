@@ -1,0 +1,20 @@
+body {background:url(../images/background.JPG) no-repeat center 50%;}
+#div1 a:active{
+text-decoration:none;
+color:white;}
+#div1 a:hover{
+text-decoration:none;
+color:black;}
+#div1 {position:relative; width:390px; height:380px; margin: 180px 0px 30px 160px  }
+#div1 a {position:absolute; top:0px; left:0px; font-family: Microsoft YaHei; color:#fff; font-weight:bold; text-decoration:none; padding: 3px 6px; }
+#div1 a:hover {border: 1px solid #eee; }
+#div1 .blue {color:blue;}
+#div1 .red {color:red;}
+#div1 .yellow {color:yellow;}
+#div1 .lime {color:lime;}
+#div1 .purple {color:#FF0099;}
+
+
+p { font: 14px Microsoft YaHei; text-align: center; color: #ba0c0c; }
+p a { color: #ba0c0c; }
+

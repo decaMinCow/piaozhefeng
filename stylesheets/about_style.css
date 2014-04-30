@@ -1,0 +1,17 @@
+*{margin:0;padding:0}
+body{
+background:black}
+.container{
+margin:30px 0 30px 10px}
+
+.black{
+background:#fff;
+border:2px solid #232323;
+padding:3px;
+margin-botton:6px;
+float:left;
+width:200px;
+height:220px;
+margin-right=1px;}
+
+

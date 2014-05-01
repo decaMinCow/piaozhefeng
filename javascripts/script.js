@@ -184,10 +184,10 @@ $(document).ready(function(){
 			var url = bookmark[j][i]['url'];
 			var thumb = bookmark[j][i]['thumb'];
 			if(thumb==''){
-				$('#thumb'+(j+1)+'-'+(i+1)).html('<img id="net" src="lib/net-back.png" /><a href="'+url+'"><div class="title">'+title+'</div></a>');
+				$('#thumb'+(j+1)+'-'+(i+1)).html('<img id="net" src="lib/net-back.png" /><a href="'+url+'" target="_blank"><div class="title">'+title+'</div></a>');
 			}
 			else{
-				$('#thumb'+(j+1)+'-'+(i+1)).html('<a href="'+url+'"><img src="thumbs/'+thumb+'" /></a>');
+				$('#thumb'+(j+1)+'-'+(i+1)).html('<a href="'+url+'" target="_blank"><img src="thumbs/'+thumb+'" /></a>');
 			}
 		};
 	};

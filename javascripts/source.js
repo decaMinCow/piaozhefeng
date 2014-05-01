@@ -48,7 +48,7 @@ bookmark[0][5] = {
 };
 bookmark[0][6] = {
 	'title':'guorenblog',
-	'url':'http://facebook.com',
+	'url':'http://blog.csdn.net/guoren12',
 	'thumb':'blog.png'
 };
 bookmark[0][7] = {
@@ -79,64 +79,64 @@ bookmark[0][11] = {
 // end of FIRST BLOCK
 // SECOND BLOCK
 bookmark[1][0] = {
-	'title':'linkedin',
-	'url':'http://www.linkedin.com/',
-	'thumb':'linkedin.png'
+	'title':'gizmodo',
+	'url':'http://gizmodo.com/',
+	'thumb':'gizmodo.png'
 };
 bookmark[1][1] = {
-	'title':'digg',
-	'url':'http://digg.com/',
-	'thumb':'digg.png'
+	'title':'flappy2048',
+	'url':'http://flappy2048.com/',
+	'thumb':'flappy2048.png'
 };
 bookmark[1][2] = {
-	'title':'flickr',
-	'url':'http://www.flickr.com/',
-	'thumb':'flickr.png'
+	'title':'guokr',
+	'url':'http://guokr.com/',
+	'thumb':'guokr.png'
 };
 bookmark[1][3] = {
-	'title':'msn',
-	'url':'http://www.msn.com/',
-	'thumb':'msn.png'
+	'title':'read',
+	'url':'http://read.org.cn/',
+	'thumb':'read.png'
 };
 bookmark[1][4] = {
-	'title':'reddit',
-	'url':'http://www.reddit.com/',
-	'thumb':'reddit.png'
+	'title':'ctrip',
+	'url':'http://www.ctrip.com/',
+	'thumb':'ctrip.png'
 };
 bookmark[1][5] = {
-	'title':'skype',
-	'url':'http://www.skype.com/',
-	'thumb':'skype.png'
+	'title':'renren',
+	'url':'http://renren.com/',
+	'thumb':'renren.png'
 };
 bookmark[1][6] = {
-	'title':'technorati',
-	'url':'http://technorati.com',
-	'thumb':'technorati.png'
+	'title':'douban',
+	'url':'http://douban.com',
+	'thumb':'douban.png'
 };
 bookmark[1][7] = {
-	'title':'delicious',
-	'url':'http://www.delicious.com/',
-	'thumb':'delicious.png'
+	'title':'qiushibaike',
+	'url':'http://qiushibaike.com/',
+	'thumb':'qiushibaike.png'
 };
 bookmark[1][8] = {
-	'title':'MySpace',
-	'url':'http://www.myspace.com/',
-	'thumb':'myspace.png'
+	'title':'mtime',
+	'url':'http://www.mtime.com/',
+	'thumb':'mtime.png'
 };
 bookmark[1][9] = {
-	'title':'orkut',
-	'url':'http://www.orkut.com/',
-	'thumb':'orkut.png'
+	'title':'meituan',
+	'url':'http://meituan.com/',
+	'thumb':'meituan.png'
 };
 bookmark[1][10] = {
-	'title':'tumblr',
-	'url':'http://www.tumblr.com/',
-	'thumb':'tumblr.png'
+	'title':'howstuffworks',
+	'url':'http://howstuffworks.com/',
+	'thumb':'howstuffworks.png'
 };
 bookmark[1][11] = {
-	'title':'StumbleUpon',
-	'url':'http://www.stumbleupon.com/',
-	'thumb':'stumbleupon.png'
+	'title':'yuyin',
+	'url':'http://www.yuyin.com/',
+	'thumb':'yuyin.png'
 };
 //end of SECOND BLOCK
 // THIRD BLOCK

@@ -135,7 +135,7 @@ bookmark[1][10] = {
 };
 bookmark[1][11] = {
 	'title':'yuyin',
-	'url':'http://www.yuyin.com/',
+	'url':'http://yuyin.fm',
 	'thumb':'yuyin.png'
 };
 //end of SECOND BLOCK

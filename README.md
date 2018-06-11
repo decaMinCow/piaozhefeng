@@ -1,5 +1,3 @@
-piaozhefeng
-===========
 
 [测试利用 github 做了一个静态页面博客](http://decamincow.github.io/piaozhefeng/)
 
